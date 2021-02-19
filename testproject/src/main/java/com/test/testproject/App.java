@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("First pom project");
         System.out.println("IT will trigger Automatically");
+        System.out.println("Automatic trigger")
     }
 }
